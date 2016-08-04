@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+#header {
+}
+
+#body{
+	width:1000px;
+}
+
+#footer{
+	text-align:center;
+}
+
+li{
+	display:block;
+	padding:7pt;
+	float:left;
+	font-size:30px;
+	font-style:oblique;
+}
+a{
+	color: #D7BD61;
+	text-decoration: none;
+	font-size: 16px;
+	font-style: oblique;
+}
+body{
+	color:#D7BD61;
+	background-color:#0D0D0D;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
